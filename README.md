@@ -1,5 +1,5 @@
-Q1.md 
-Rules of Big O Notation in algorithim analysis.
+**Q1.md**
+**1) Rules of Big O Notation in algorithim analysis.**
 **a) Focus on the dominant term.**
 - Under this rule, only the trem with the highest growth rate matters.
 - Example: O(n2 + n) = O(n2)
@@ -24,8 +24,8 @@ Rules of Big O Notation in algorithim analysis.
 - When the input size reduces, the time complexity of the algorithim will present a logarithimic growth which is denoted as O(logn).
 - This occurs since the number of operations required grows in proportion to the logarithim of the input size.
 
-Q2.md
-Difference between arrays and linked list.
+**Q2.md**
+**2) Difference between arrays and linked list.**
    **i) Memory allocation.**
      Arrays.
    - An Array is a collection of homogeneous data elements in a contiguous memory.
